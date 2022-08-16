@@ -14,7 +14,9 @@
 <a href="https://instagram.com/lachlan_dasilva" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" height="40" width="40" /></a>
 </p>
 
+<h1></h1>
 
- <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lachsilva3&show_icons=true&locale=en&layout=compact&theme=outrun" alt="language stats" /></p>
- 
- <p> <img src=https://github-readme-stats.vercel.app/api?username=lachsilva3&show_icons=true&theme=outrun alt=rahuldkjain /> </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LACHSILVA3&show_icons=true&theme=radical)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lachsilva3&count_private=true&show_icons=true&theme=radical)
+

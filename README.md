@@ -1,5 +1,5 @@
 ### Hi, I'm Lachlan Da Silva👋
-.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,6 +20,6 @@
 </p>
 
 
- <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lchris22&show_icons=true&locale=en&layout=compact&theme=outrun" alt="language stats" /></p>
+ <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lachsilva3&show_icons=true&locale=en&layout=compact&theme=outrun" alt="language stats" /></p>
  
  <p> <img src=https://github-readme-stats.vercel.app/api?username=lachsilva3&show_icons=true&theme=outrun alt=rahuldkjain /> </p>

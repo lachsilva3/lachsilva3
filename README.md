@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lachlan Da Silva👋</h1>
+<h1 align="center">Hi👋 , I'm Lachlan Da Silva</h1>
 
 <h5>
 - 🔭 I’m currently pursuing CSE <br>

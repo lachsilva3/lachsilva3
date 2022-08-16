@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing CSE
 - 🌱 I’m currently learning Git,React,.....
-- :video_game: 
+- 🎮 🎯
 <hr>
 
 <h3 align="left">Socials</h3>

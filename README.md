@@ -2,7 +2,7 @@
 
 
 ##### - 🔭 I’m currently pursuing CSE 
-##### - 🌱 I’m currently learning Git,React,.....
+##### - 🌱 I’m currently learning Git,JavaScript,.....
 ##### - 🎮 🎯
 <h1>
  <h3 align="center"><b>Socials</b></h2>

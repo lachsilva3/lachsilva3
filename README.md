@@ -1,10 +1,9 @@
-<h1 align="center">Hi👋 , I'm Lachlan Da Silva</h1>
+# Hi👋 , I'm Lachlan Da Silva
 
-<h5>
-- 🔭 I’m currently pursuing CSE <br>
-- 🌱 I’m currently learning Git,React,.....<br>
-- 🎮 🎯
-</h5>
+
+##### - 🔭 I’m currently pursuing CSE 
+##### - 🌱 I’m currently learning Git,React,.....
+##### - 🎮 🎯
 <h1>
  <h3 align="center"><b>Socials</b></h2>
 <p align="center">

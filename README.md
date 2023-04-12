@@ -1,4 +1,4 @@
-# Hi👋 , I'm Lachlan Da Silva
+# Hi , I'm Lachlan Da Silva 😎✌️
 
 
 ##### - 🔭 I’m currently pursuing CSE 

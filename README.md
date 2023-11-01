@@ -2,8 +2,7 @@
 
 
 ##### - 🔭 I’m currently pursuing CSE 
-##### - 🌱 I’m currently learning ReactJS
-##### - 📝 Working on final year project
+##### - 🌱 I’m currently learning JS
 ##### - 📫 South Goa
 ##### - 🎮 🎯
 <h1>

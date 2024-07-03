@@ -1,8 +1,8 @@
 # Hi , I'm Lachlan Da Silva 😎✌️
 
 
-##### - 🔭 I’m currently pursuing CSE 
-##### - 🌱 I’m currently learning JS
+##### - 🔭 Recently completed my CSE 
+##### - 🌱 I’m currently learning React JS
 ##### - 📫 South Goa
 ##### - 🎮 🎯
 <h1>
